@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a792f92a7f801498145e0ad232bb16, type: 3}
+  m_Name: Card[8]
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Id: 8
+  FileName: Card[8].asset
+  Name: "\u67AA\u51753"
+  CardName: "\u67AA\u51753"
+  CardDesc: "\u67AA\u51753"
+  CardType: 1
+  color: {r: 0.9019608, g: 0.78039217, b: 1, a: 1}
+  Icon: {fileID: 21300000, guid: e381d11048a61ac43b13e915c2134f41, type: 3}
+  level: 3
+  attr_health: 4
+  attr_damage: 4
+  attr_defense: 2
+  size: 1.5
+  test_disable: 0
